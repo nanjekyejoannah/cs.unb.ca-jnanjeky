@@ -1,0 +1,64 @@
+---
+layout: page
+title: Ali Siahkoohi - Homepage
+description: A website dedicated to my academic career
+---
+
+### Contact
+
+**Email:** [alisk [at] gatech [dot] edu](mailto:alisk@gatech.edu)  
+**Office:** 212 Cherry Emerson Building
+
+------
+
+### Education
+
+* Ph.D. Computational Science and Engineering, [Georgia Institute of Technology](http://www.gatech.edu/) (_In progress_)
+	* _Advisor:_ [Felix J. Herrmann](https://www.cse.gatech.edu/people/felix-herrmann)
+
+* M.Sc. Geophysics, [University of Tehran](http://ut.ac.ir/en)
+	* _Advisor:_ [Ali Gholami](https://rtis2.ut.ac.ir/cv/agholami/?lang=en-gb)
+
+* B.Sc. Electrical Engineering, [Sharif University of Technology](http://www.en.sharif.edu/)
+
+------
+
+### Research
+
+My research is mainly focused on applications of deep learning and signal processing in modeling, imaging, and inverse problems. I am also interested in optimization and numerical linear algebra. 
+
+Here’s a link to my [CV](https://alisiahkoohi.github.io/files/AliSiahkoohi-CV.pdf).
+
+------
+
+### Publication
+
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=sxRMqYIAAAAJ&hl=en).
+
+Gabrio Rizzuti, Ali Siahkoohi, and Felix J. Herrmann. **Learned iterative solvers for the Helmholtz equation**. Submitted to EAGE on January 15, 2019. [[link]](https://www.slim.eos.ubc.ca/content/learned-iterative-solvers-helmholtz-equation)
+
+Felix J. Herrmann, Gerard J. Gorman, Jan Hückelheim, et al. **The power of abstraction in Computational Exploration Seismology**. In: Smoky Mountains Computational Sciences and Engineering Conference. Aug. 2018 [[link]](https://www.slim.eos.ubc.ca/content/power-abstraction-computational-exploration-seismology) [[BibTex]](https://alisiahkoohi.github.io/files/PowerAbstraction.bib)
+
+Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, et al. **Deep-convolutional neural networks in prestack seismic: Two exploratory examples**. In: SEG Technical Program Expanded Abstracts 2018. Oct. 2018, pp. 2196–2200. doi: 10.1190/segam2018-2998599.1. [[pdf]](https://alisiahkoohi.github.io/files/siahkoohi2018SEGcnn.pdf) [[link]](https://library.seg.org/doi/10.1190/segam2018-2998599.1) [[BibTex]](https://alisiahkoohi.github.io/files/DeepCNN_Prestack.bib)
+
+A. Siahkoohi, R. Kumar, and F. Herrmann. **Seismic Data Reconstruction with Generative Adversarial Networks**. In: 80th EAGE Conference and Exhibition 2018. June 2018. doi: 10.3997/2214-4609.201801393. [[pdf]](https://alisiahkoohi.github.io/files/siahkoohi2018EAGEsdr.pdf) [[slides]](https://alisiahkoohi.github.io/files/siahkoohi2018EAGEsdr_pres.pdf) [[link]](http://www.earthdoc.org/publication/publicationdetails/?publication=92782) [[BibTex]](https://alisiahkoohi.github.io/files/GAN_Interpolation.bib)
+
+A. Siahkoohi and A. Gholami. **Sparsity Promoting Least Squares Migration for Laterally Inhomogeneous Media**. In: 7th EAGE Saint Petersburg International Conference and Exhibition. Apr. 2016. doi: 10.3997/2214-4609.201600223. [[pdf]](https://alisiahkoohi.github.io/files/84208.pdf) [[link]](http://earthdoc.eage.org/publication/publicationdetails/?publication=84208) [[BibTex]](https://alisiahkoohi.github.io/files/LSM.bib)
+
+Mohmmad Sadegh Ebrahimi, Mohammad Hossein Daraei, Jamshid Rezaei, et al. **A Novel Utilization of Wireless Sensor Networks as Data Acquisition System in Smart Grids**. In: Materials Science and Information Technology. Vol. 433. Advanced Materials Research. Trans Tech Publications, Jan. 2012, pp. 6725–6730. doi: 10.4028/www.scientific.net/AMR.433-440.6725. [[link]](https://www.scientific.net/AMR.433-440.6725) [[BibTex]](https://alisiahkoohi.github.io/files/WSN.bib)
+
+Amir Najafi, Ali Siahkoohi, and Mohammad B Shamsollahi. **A content-based digital image watermarking algorithm robust against JPEG compression**. In: 2011 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT). IEEE. Feb. 2011, pp. 432–437. doi: 10.1109/ISSPIT.2011.6151601. [[pdf]](https://alisiahkoohi.github.io/files/6151601.pdf) [[link]](https://ieeexplore.ieee.org/document/6151601/) [[BibTex]](https://alisiahkoohi.github.io/files/Watermarking.bib)
+
+
+
+------
+
+### Links
+
+
+[Gatech GitHub](https://github.gatech.edu/asiahkoohi3) &nbsp; &nbsp;  &nbsp; &nbsp;
+[GitHub](https://github.com/alisiahkoohi) &nbsp; &nbsp;  &nbsp; &nbsp;
+[Google Scholar](https://scholar.google.com/citations?user=sxRMqYIAAAAJ&hl=en) &nbsp; &nbsp;  &nbsp; &nbsp;
+[LinkedIn](https://www.linkedin.com/in/alisiahkoohi/) &nbsp; &nbsp;  &nbsp; &nbsp;
+[ResearchGate](https://www.researchgate.net/profile/Ali_Siahkoohi) &nbsp; &nbsp;  &nbsp; &nbsp;
+[Spotify](https://open.spotify.com/user/128880008)
