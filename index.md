@@ -14,7 +14,7 @@ description: A website dedicated to my academic career
 ### Education
 
 * Ph.D. Computational Science and Engineering, [Georgia Institute of Technology](http://www.gatech.edu/) (_In progress_)
-	* _Advisor:_ [Felix J. Herrmann](https://www.cse.gatech.edu/people/felix-herrmann)
+	* _Advisor:_ [Felix J. Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann)
 
 * M.Sc. Geophysics, [University of Tehran](http://ut.ac.ir/en)
 	* _Advisor:_ [Ali Gholami](https://profile.ut.ac.ir/en/~agholami/publications)
