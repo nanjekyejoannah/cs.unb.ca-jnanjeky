@@ -35,7 +35,7 @@ Here’s a link to my [CV](https://alisiahkoohi.github.io/files/AliSiahkoohi-CV.
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=sxRMqYIAAAAJ&hl=en).
 
-Felix J. Herrmann, Ali Siahkoohi, and Mathias Louboutin. **Machine Learning in Seismic Imaging: from Low-fidelity to Highfidelity**. In: SIAM Conference on Computational Science and Engineering. (SIAM CSE). Mar. 2019. [[link]](http://meetings.siam.org/sess/dsp_talk.cfm?p=95707)
+Felix J. Herrmann, Ali Siahkoohi, and Mathias Louboutin. **Machine Learning in Seismic Imaging: from Low-fidelity to High-fidelity**. In: SIAM Conference on Computational Science and Engineering. (SIAM CSE). Mar. 2019. [[link]](http://meetings.siam.org/sess/dsp_talk.cfm?p=95707)
 
 Gabrio Rizzuti, Ali Siahkoohi, and Felix J. Herrmann. **Learned iterative solvers for the Helmholtz equation**. In: 81st EAGE Conference and Exhibition 2019 (2019). [[link]](https://www.slim.eos.ubc.ca/content/learned-iterative-solvers-helmholtz-equation)
 
