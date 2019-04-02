@@ -42,7 +42,7 @@ Ali Siahkoohi, Dirk J. Verschuur, and Felix J. Herrmann. **Surface-related multi
 Felix J. Herrmann, Ali Siahkoohi, and Mathias Louboutin. **Machine Learning in Seismic Imaging: from Low-fidelity to High-fidelity**. In: _SIAM Conference on Computational Science and Engineering. (SIAM CSE)_. Mar. 2019. [[link]](http://meetings.siam.org/sess/dsp_talk.cfm?p=95707)
 
 Gabrio Rizzuti, Ali Siahkoohi, and Felix J. Herrmann. **Learned iterative solvers for the Helmholtz equation**. In: _81st
-EAGE Conference and Exhibition 2019_. June 2019. [[link]](https://www.slim.eos.ubc.ca/content/learned-iterative-solvers-helmholtz-equation)
+EAGE Conference and Exhibition 2019_. June 2019. [[link]](https://www.slim.eos.ubc.ca/content/learned-iterative-solvers-helmholtz-equation) [[BibTex]](https://alisiahkoohi.github.io/files/rizzuti2019EAGElis.bib)
 
 Felix J. Herrmann, Gerard J. Gorman, Jan Hückelheim, et al. **The power of abstraction in Computational Exploration Seismology**. In: _Smoky Mountains Computational Sciences and Engineering Conference_. Aug. 2018 [[link]](https://www.slim.eos.ubc.ca/content/power-abstraction-computational-exploration-seismology) [[BibTex]](https://alisiahkoohi.github.io/files/PowerAbstraction.bib)
 
