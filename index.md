@@ -35,6 +35,10 @@ Here’s a link to my [CV](https://alisiahkoohi.github.io/files/AliSiahkoohi-CV.
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=sxRMqYIAAAAJ&hl=en).
 
+Ali Siahkoohi, Rajiv Kumar, and Felix J. Herrmann. **Deep-learning based ocean bottom seismic wavefield recovery**. Submitted to: _SEG Technical Program Expanded Abstracts 2019_. Apr. 2019.
+
+Ali Siahkoohi, Dirk J. Verschuur, and Felix J. Herrmann. **Surface-related multiple elimination with deep learning**. Submitted to: _SEG Technical Program Expanded Abstracts 2019_. Apr. 2019.
+
 Felix J. Herrmann, Ali Siahkoohi, and Mathias Louboutin. **Machine Learning in Seismic Imaging: from Low-fidelity to High-fidelity**. In: _SIAM Conference on Computational Science and Engineering. (SIAM CSE)_. Mar. 2019. [[link]](http://meetings.siam.org/sess/dsp_talk.cfm?p=95707)
 
 Gabrio Rizzuti, Ali Siahkoohi, and Felix J. Herrmann. **Learned iterative solvers for the Helmholtz equation**. In: _81st
