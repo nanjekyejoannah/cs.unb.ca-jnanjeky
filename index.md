@@ -17,7 +17,7 @@ description: A website dedicated to my academic career
 	* _Advisor:_ [Felix J. Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann)
 
 * M.Sc. Geophysics, [University of Tehran](http://ut.ac.ir/en)
-	* _Advisor:_ [Ali Gholami](https://profile.ut.ac.ir/en/~agholami/publications)
+	* _Advisor:_ [Ali Gholami](https://rtis2.ut.ac.ir/cv/agholami/?lang=en-gb)
 
 * B.Sc. Electrical Engineering, [Sharif University of Technology](http://www.en.sharif.edu/)
 
