@@ -37,14 +37,13 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling and imaging**. 2019. [[BibTex]](https://alisiahkoohi.github.io/files/siahkoohi2019transfer.bib)
 
-Ali Siahkoohi, Rajiv Kumar, and Felix J. Herrmann. **Deep-learning based ocean bottom seismic wavefield recovery**. Submitted to: _SEG Technical Program Expanded Abstracts 2019_. Apr. 2019. [[link]](https://www.slim.eos.ubc.ca/content/deep-learning-based-ocean-bottom-seismic-wavefield-recovery) [[BibTex]](https://alisiahkoohi.github.io/files/siahkoohi2019dlwr.bib)
+Ali Siahkoohi, Rajiv Kumar, and Felix J. Herrmann. **Deep-learning based ocean bottom seismic wavefield recovery**. Apr. 2019. [[link]](https://www.slim.eos.ubc.ca/content/deep-learning-based-ocean-bottom-seismic-wavefield-recovery) [[BibTex]](https://alisiahkoohi.github.io/files/siahkoohi2019dlwr.bib)
 
-Ali Siahkoohi, Dirk J. Verschuur, and Felix J. Herrmann. **Surface-related multiple elimination with deep learning**. Submitted to: _SEG Technical Program Expanded Abstracts 2019_. Apr. 2019. [[link]](https://www.slim.eos.ubc.ca/content/surface-related-multiple-elimination-deep-learning) [[BibTex]](https://alisiahkoohi.github.io/files/siahkoohi2019srmedl.bib)
+Ali Siahkoohi, Dirk J. Verschuur, and Felix J. Herrmann. **Surface-related multiple elimination with deep learning**. Apr. 2019. [[link]](https://www.slim.eos.ubc.ca/content/surface-related-multiple-elimination-deep-learning) [[BibTex]](https://alisiahkoohi.github.io/files/siahkoohi2019srmedl.bib)
 
 Felix J. Herrmann, Ali Siahkoohi, and Mathias Louboutin. **Machine Learning in Seismic Imaging: from Low-fidelity to High-fidelity**. In: _SIAM Conference on Computational Science and Engineering. (SIAM CSE)_. Mar. 2019. [[link]](http://meetings.siam.org/sess/dsp_talk.cfm?p=95707)
 
-Gabrio Rizzuti, Ali Siahkoohi, and Felix J. Herrmann. **Learned iterative solvers for the Helmholtz equation**. In: _81st
-EAGE Conference and Exhibition 2019_. June 2019. [[link]](https://www.slim.eos.ubc.ca/content/learned-iterative-solvers-helmholtz-equation) [[BibTex]](https://alisiahkoohi.github.io/files/rizzuti2019EAGElis.bib)
+Gabrio Rizzuti, Ali Siahkoohi, and Felix J. Herrmann. **Learned iterative solvers for the Helmholtz equation**. June 2019. [[link]](https://www.slim.eos.ubc.ca/content/learned-iterative-solvers-helmholtz-equation) [[BibTex]](https://alisiahkoohi.github.io/files/rizzuti2019EAGElis.bib)
 
 Felix J. Herrmann, Gerard J. Gorman, Jan Hückelheim, et al. **The power of abstraction in Computational Exploration Seismology**. In: _Smoky Mountains Computational Sciences and Engineering Conference_. Aug. 2018 [[link]](https://www.slim.eos.ubc.ca/content/power-abstraction-computational-exploration-seismology) [[BibTex]](https://alisiahkoohi.github.io/files/PowerAbstraction.bib)
 
