@@ -27,7 +27,7 @@ description: A website dedicated to my academic career
 
 My research is mainly focused on applications of deep learning and signal processing in modeling, imaging, and inverse problems. I am also interested in optimization and numerical linear algebra. 
 
-Here’s a link to my [CV](https://alisiahkoohi.github.io/files/AliSiahkoohi-CV.pdf).
+Here’s a link to my short [CV](https://alisiahkoohi.github.io/files/AliSiahkoohi-CV.pdf).
 
 ------
 
