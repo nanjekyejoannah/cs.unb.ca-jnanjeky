@@ -6,7 +6,7 @@ description: A website dedicated to my academic career
 
 ### Contact
 
-**Email:** [alisk [at] gatech [dot] edu](mailto:alisk@gatech.edu)  
+**Email:** alisk [at] gatech [dot] edu
 **Office:** 212 Cherry Emerson Building
 
 ------
