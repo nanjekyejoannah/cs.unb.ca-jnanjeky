@@ -35,7 +35,7 @@ Here’s a link to my short [CV](https://alisiahkoohi.github.io/files/AliSiahkoo
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=sxRMqYIAAAAJ&hl=en).
 
-Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling and imaging**. 2019. [[BibTex]](https://alisiahkoohi.github.io/files/siahkoohi2019transfer.bib)
+Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling and imaging**. 2019. [[link]](https://www.slim.eos.ubc.ca/Publications/Private/Submitted/2019/siahkoohi2019itl/siahkoohi2019itl.html) [[BibTex]](https://alisiahkoohi.github.io/files/siahkoohi2019transfer.bib)
 
 Ali Siahkoohi, Rajiv Kumar, and Felix J. Herrmann. **Deep-learning based ocean bottom seismic wavefield recovery**. Apr. 2019. [[link]](https://www.slim.eos.ubc.ca/content/deep-learning-based-ocean-bottom-seismic-wavefield-recovery) [[BibTex]](https://alisiahkoohi.github.io/files/siahkoohi2019dlwr.bib)
 
