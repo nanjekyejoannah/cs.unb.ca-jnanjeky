@@ -38,9 +38,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling and imaging**. 2019. [[link]](https://www.slim.eos.ubc.ca/content/importance-transfer-learning-seismic-modeling-and-imaging) [[bibtex]](https://www.slim.eos.ubc.ca/biblio/export/bibtex/52162)
 
-Ali Siahkoohi, Rajiv Kumar, and Felix J. Herrmann. **Deep-learning based ocean bottom seismic wavefield recovery**. Apr. 2019. [[link]](https://slim.gatech.edu/content/deep-learning-based-ocean-bottom-seismic-wavefield-recovery) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6979)
+Ali Siahkoohi, Rajiv Kumar, and Felix J. Herrmann. **Deep-learning based ocean bottom seismic wavefield recovery**. In: SEG Technical Program Expanded Abstracts 2019. Sept. 2019. [[link]](https://slim.gatech.edu/content/deep-learning-based-ocean-bottom-seismic-wavefield-recovery) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6979)
 
-Ali Siahkoohi, Dirk J. Verschuur, and Felix J. Herrmann. **Surface-related multiple elimination with deep learning**. Apr. 2019. [[link]](https://slim.gatech.edu/content/surface-related-multiple-elimination-deep-learning) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6980)
+Ali Siahkoohi, Dirk J. Verschuur, and Felix J. Herrmann. **Surface-related multiple elimination with deep learning**. In: SEG Technical Program Expanded Abstracts 2019. Sept. 2019. [[link]](https://slim.gatech.edu/content/surface-related-multiple-elimination-deep-learning) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6980)
 
 Felix J. Herrmann, Ali Siahkoohi, and Mathias Louboutin. **Machine Learning in Seismic Imaging: from Low-fidelity to High-fidelity**. In: _SIAM Conference on Computational Science and Engineering. (SIAM CSE)_. Mar. 2019. [[link]](http://meetings.siam.org/sess/dsp_talk.cfm?p=95707)
 
