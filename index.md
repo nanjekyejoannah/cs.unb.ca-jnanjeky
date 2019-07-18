@@ -26,7 +26,7 @@ description: A website dedicated to my academic career
 
 ### Research
 
-My research is mainly focused on applications of deep learning and signal processing in modeling, imaging, and inverse problems. I am also interested in optimization and numerical linear algebra. 
+My research interests include machine learning, deep learning, signal processing, and numerical methods. Currently, my research is mainly focused on applications of deep learning in computational inverse problems.
 
 Here’s a link to my short [CV](https://alisiahkoohi.github.io/files/AliSiahkoohi-CV.pdf).
 
