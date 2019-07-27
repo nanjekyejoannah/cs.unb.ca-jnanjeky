@@ -26,7 +26,7 @@ description: A website dedicated to my academic career
 
 ### Research
 
-My research interests include machine learning, signal processing, and numerical methods. Currently, my research is mainly focused on applications of deep learning in inverse problems.
+My research interests include machine learning, signal processing, numerical methods, and inverse problems. Currently, my research is mainly focused on applications of deep learning in inverse problems.
 
 Here’s a link to my short [CV](https://alisiahkoohi.github.io/files/AliSiahkoohi-CV.pdf).
 
