@@ -36,7 +36,8 @@ Here’s a link to my short [CV](https://alisiahkoohi.github.io/files/AliSiahkoo
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=sxRMqYIAAAAJ&hl=en).
 
-Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling and imaging**. 2019. [[link]](https://slim.gatech.edu/content/generalized-minkowski-sets-regularization-inverse-problems-0) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7051)
+Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling
+and imaging**. In: _GEOPHYSICS_. July 2019. doi: 10.1190/geo2019-0056.1. [[link]](https://library.seg.org/doi/10.1190/geo2019-0056.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7051)
 
 Ali Siahkoohi, Rajiv Kumar, and Felix J. Herrmann. **Deep-learning based ocean bottom seismic wavefield recovery**. In: _SEG Technical Program Expanded Abstracts 2019._ Sept. 2019. [[link]](https://slim.gatech.edu/content/deep-learning-based-ocean-bottom-seismic-wavefield-recovery) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6979)
 
