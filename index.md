@@ -8,7 +8,7 @@ description: A website dedicated to my academic career
 
 **Email:** alisk [at] gatech [dot] edu
 
-**Office:** 212 Cherry Emerson Building
+**Office:** S1363L Coda Building
 
 ------
 
