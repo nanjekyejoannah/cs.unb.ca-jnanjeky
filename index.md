@@ -37,7 +37,7 @@ Here’s a link to my short [CV](https://alisiahkoohi.github.io/files/AliSiahkoo
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=sxRMqYIAAAAJ&hl=en).
 
 Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling
-and imaging**. In: _GEOPHYSICS_. July 2019. doi: 10.1190/geo2019-0056.1. [[link]](https://library.seg.org/doi/10.1190/geo2019-0056.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7051)
+and imaging**. In: _GEOPHYSICS_. July 2019. doi: 10.1190/geo2019-0056.1. [[pdf]](https://slim.gatech.edu/Publications/Private/Submitted/2019/siahkoohi2019itl/siahkoohi2019itl.pdf) [[link]](https://library.seg.org/doi/10.1190/geo2019-0056.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7051)
 
 Ali Siahkoohi, Rajiv Kumar, and Felix J. Herrmann. **Deep-learning based ocean bottom seismic wavefield recovery**. In: _SEG Technical Program Expanded Abstracts 2019._ Sept. 2019. [[link]](https://slim.gatech.edu/content/deep-learning-based-ocean-bottom-seismic-wavefield-recovery) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6979)
 
@@ -45,9 +45,9 @@ Ali Siahkoohi, Dirk J. Verschuur, and Felix J. Herrmann. **Surface-related multi
 
 Felix J. Herrmann, Ali Siahkoohi, and Mathias Louboutin. **Machine Learning in Seismic Imaging: from Low-fidelity to High-fidelity**. In: _SIAM Conference on Computational Science and Engineering. (SIAM CSE)_. Mar. 2019. [[link]](http://meetings.siam.org/sess/dsp_talk.cfm?p=95707)
 
-Gabrio Rizzuti, Ali Siahkoohi, and Felix J. Herrmann. **Learned iterative solvers for the Helmholtz equation**. In: _81st EAGE Conference and Exhibition 2019._ June 2019. [[link]](https://slim.gatech.edu/content/learned-iterative-solvers-helmholtz-equation) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6736)
+Gabrio Rizzuti, Ali Siahkoohi, and Felix J. Herrmann. **Learned iterative solvers for the Helmholtz equation**. In: _81st EAGE Conference and Exhibition 2019._ June 2019. [[pdf]](https://slim.gatech.edu/Publications/Private/Submitted/2019/rizzuti2019EAGElis/rizzuti2019EAGElis.pdf) [[link]](http://earthdoc.eage.org/publication/publicationdetails/?publication=97298) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6736)
 
-Felix J. Herrmann, Gerard J. Gorman, Jan Hückelheim, et al. **The power of abstraction in Computational Exploration Seismology**. In: _Smoky Mountains Computational Sciences and Engineering Conference_. Aug. 2018 [[link]](https://slim.gatech.edu/content/power-abstraction-computational-exploration-seismology) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SMC/2018/herrmann2018SMCtpa/herrmann2018SMCtpa_pres.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/5950)
+Felix J. Herrmann, Gerard J. Gorman, Jan Hückelheim, et al. **The power of abstraction in Computational Exploration Seismology**. In: _Smoky Mountains Computational Sciences and Engineering Conference_. Aug. 2018 [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SMC/2018/herrmann2018SMCtpa/herrmann2018SMCtpa_pres.pdf) [[link]](https://slim.gatech.edu/content/power-abstraction-computational-exploration-seismology) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/5950)
 
 Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, et al. **Deep-convolutional neural networks in prestack seismic: Two exploratory examples**. In: _SEG Technical Program Expanded Abstracts 2018_. Oct. 2018, pp. 2196–2200. doi: 10.1190/segam2018-2998599.1. [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2018/siahkoohi2018SEGcnn/siahkoohi2018SEGcnn.pdf) [[poster]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2018/siahkoohi2018SEGcnn/siahkoohi2018SEGcnn_pres.pdf) [[link]](https://library.seg.org/doi/10.1190/segam2018-2998599.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/5956)
 
