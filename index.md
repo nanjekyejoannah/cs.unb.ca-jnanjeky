@@ -8,7 +8,7 @@ description: A website dedicated to my academic career
 
 **Email:** alisk [at] gatech [dot] edu 
 
-<p align="center">
+<p align="right">
 <img src="files/IMG_4284.jpg" width="30px" >
 </p>
 
