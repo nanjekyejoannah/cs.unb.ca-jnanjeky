@@ -9,7 +9,7 @@ description: A website dedicated to my academic career
 **Email:** alisk [at] gatech [dot] edu 
 
 <p align="right">
-<img src="files/IMG_4284.jpg" width="30px" >
+<img src="files/IMG_4284.jpg" width="130px" >
 </p>
 
 **Office:** S1363 Coda Building
