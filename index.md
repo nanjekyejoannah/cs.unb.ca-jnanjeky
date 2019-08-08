@@ -6,16 +6,11 @@ description: A website dedicated to my academic career
 
 ### Contact
 
-
-
-<!-- </p><img style="float: right;" src="files/IMG_4284.jpg"  width="20" height="20" /></p> -->
-
-<img style='vertical-align:middle;' src='files/IMG_4284.jpg'>
-<div style='vertical-align:middle; display:inline;'>
 **Email:** alisk [at] gatech [dot] edu 
-**Office:** S1363 Coda Building
-</div>
 
+![Drag Racing](files/IMG_4284.jpg)
+
+**Office:** S1363 Coda Building
 
 ------
 
