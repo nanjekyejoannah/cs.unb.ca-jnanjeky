@@ -39,7 +39,7 @@ Here’s a link to my short [CV](https://alisiahkoohi.github.io/files/AliSiahkoo
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=sxRMqYIAAAAJ&hl=en).
 
 Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling
-and imaging**. In: GEOPHYSICS 84.6 (July 2019), pp. 1–30. doi: 10.1190/geo2019-0056.1. [[pdf]](https://slim.gatech.edu/Publications/Private/Submitted/2019/siahkoohi2019itl/siahkoohi2019itl.pdf) [[link]](https://library.seg.org/doi/10.1190/geo2019-0056.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7051)
+and imaging**. In: Geophysics 84.6 (July 2019), pp. 1–30. doi: 10.1190/geo2019-0056.1. [[pdf]](https://slim.gatech.edu/Publications/Private/Submitted/2019/siahkoohi2019itl/siahkoohi2019itl.pdf) [[link]](https://library.seg.org/doi/10.1190/geo2019-0056.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7051)
 
 Ali Siahkoohi, Dirk J. Verschuur, and Felix J. Herrmann. **Surface-related multiple elimination with deep learning**. In: _SEG Technical Program Expanded Abstracts 2019_. Aug. 2019, pp. 4629–4634. doi: 10.1190/segam2019-3216723.1. [[pdf]](https://slim.gatech.edu/Publications/Private/Submitted/2019/siahkoohi2019SEGsrm/siahkoohi2019SEGsrm.pdf) [[link]](https://library.seg.org/doi/10.1190/segam2019-3216723.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6980)
 
