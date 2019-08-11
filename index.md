@@ -6,7 +6,9 @@ description: A website dedicated to my academic career
 
 ### Contact
 
-**Email:** alisk [at] gatech [dot] edu
+**Email:** alisk [at] gatech [dot] edu 
+
+<img align="right" src="files/IMG_4284.jpg">
 
 **Office:** S1363 Coda Building
 
@@ -39,9 +41,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling
 and imaging**. In: GEOPHYSICS 84.6 (July 2019), pp. 1–30. doi: 10.1190/geo2019-0056.1. [[pdf]](https://slim.gatech.edu/Publications/Private/Submitted/2019/siahkoohi2019itl/siahkoohi2019itl.pdf) [[link]](https://library.seg.org/doi/10.1190/geo2019-0056.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7051)
 
-Ali Siahkoohi, Rajiv Kumar, and Felix J. Herrmann. **Deep-learning based ocean bottom seismic wavefield recovery**. In: _SEG Technical Program Expanded Abstracts 2019._ Sept. 2019. [[link]](https://slim.gatech.edu/content/deep-learning-based-ocean-bottom-seismic-wavefield-recovery) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6979)
+Ali Siahkoohi, Dirk J. Verschuur, and Felix J. Herrmann. **Surface-related multiple elimination with deep learning**. In: _SEG Technical Program Expanded Abstracts 2019_. Aug. 2019, pp. 4629–4634. doi: 10.1190/segam2019-3216723.1. [[pdf]](https://slim.gatech.edu/Publications/Private/Submitted/2019/siahkoohi2019SEGsrm/siahkoohi2019SEGsrm.pdf) [[link]](https://library.seg.org/doi/10.1190/segam2019-3216723.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6980)
 
-Ali Siahkoohi, Dirk J. Verschuur, and Felix J. Herrmann. **Surface-related multiple elimination with deep learning**. In: _SEG Technical Program Expanded Abstracts 2019._ Sept. 2019. [[link]](https://slim.gatech.edu/content/surface-related-multiple-elimination-deep-learning) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6980)
+Ali Siahkoohi, Rajiv Kumar, and Felix J. Herrmann. **Deep-learning based ocean bottom seismic wavefield recovery**. In: _SEG Technical Program Expanded Abstracts 2019_. Aug. 2019, pp. 2232–2237. doi: 10.1190/segam2019-3216632.1. [[pdf]](https://slim.gatech.edu/Publications/Private/Submitted/2019/siahkoohi2019SEGdlb/siahkoohi2019SEGdlb.pdf) [[link]](https://library.seg.org/doi/10.1190/segam2019-3216632.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/6979)
 
 Felix J. Herrmann, Ali Siahkoohi, and Mathias Louboutin. **Machine Learning in Seismic Imaging: from Low-fidelity to High-fidelity**. In: _SIAM Conference on Computational Science and Engineering. (SIAM CSE)_. Mar. 2019. [[link]](http://meetings.siam.org/sess/dsp_talk.cfm?p=95707)
 
