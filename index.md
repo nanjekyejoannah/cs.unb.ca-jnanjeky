@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ali Siahkoohi
+title: Ali's homepage
 description: A website dedicated to my academic career
 ---
 
