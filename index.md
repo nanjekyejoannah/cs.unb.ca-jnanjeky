@@ -36,8 +36,6 @@ Here’s a link to my short [CV](https://alisiahkoohi.github.io/files/AliSiahkoo
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=sxRMqYIAAAAJ&hl=en).
 
-Felix J. Herrmann, Ali Siahkoohi, and Gabrio Rizzuti. **Learned imaging with constraints and uncertainty quantification**. Sept. 2019
-
 Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling
 and imaging**. In: Geophysics 84.6 (July 2019), pp. 1–30. doi: 10.1190/geo2019-0056.1. [[pdf]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2019/siahkoohi2019itl/siahkoohi2019itl.pdf) [[link]](https://library.seg.org/doi/10.1190/geo2019-0056.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7051)
 
