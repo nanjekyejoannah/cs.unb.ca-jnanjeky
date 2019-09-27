@@ -36,6 +36,8 @@ Here’s a link to my short [CV](https://alisiahkoohi.github.io/files/AliSiahkoo
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=sxRMqYIAAAAJ&hl=en).
 
+Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **Neural network augmented wave-equation simulation**. Sep. 2019. [[pdf]](https://www.dropbox.com/s/g6532le2pu7y3m2/report.pdf?dl=0)
+
 Felix J. Herrmann, Ali Siahkoohi, and Gabrio Rizzuti. **Learned imaging with constraints and uncertainty quantification**. Submitted to NeurIPS 2019 Deep Inverse Workshop on September 9, 2019. [[pdf]](https://arxiv.org/pdf/1909.06473.pdf) [[slides]](https://www.dropbox.com/s/fizn6ct3rqx00rs/HerrmannSEGWS2019.pdf?dl=0) [[link]](https://deep-inverse.org/) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7086)
 
 Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling
