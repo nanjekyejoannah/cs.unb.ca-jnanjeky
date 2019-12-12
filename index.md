@@ -38,7 +38,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **Neural network augmented wave-equation simulation**. Sep. 2019. [[pdf]](https://arxiv.org/abs/1910.00925)
 
-Felix J. Herrmann, Ali Siahkoohi, and Gabrio Rizzuti. **Learned imaging with constraints and uncertainty quantification**. In: NeurIPS 2019 Deep Inverse Workshop. 2019. [[pdf]](https://arxiv.org/abs/1909.06473) [[slides]](https://www.dropbox.com/s/fizn6ct3rqx00rs/HerrmannSEGWS2019.pdf?dl=0) [[link]](https://deep-inverse.org/) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7086)
+Felix J. Herrmann, Ali Siahkoohi, and Gabrio Rizzuti. **Learned imaging with constraints and uncertainty quantification**. In: NeurIPS 2019 Deep Inverse Workshop. 2019. [[pdf]](https://arxiv.org/abs/1909.06473) [[slides]](https://www.dropbox.com/s/xybn8cq07pr5xs5/HotCSESeminar-LearnedImaging.pdf?dl=0) [[link]](https://deep-inverse.org/) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7086)
 
 Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. **The importance of transfer learning in seismic modeling
 and imaging**. In: Geophysics 84.6 (July 2019), pp. A47--A52. doi: 10.1190/geo2019-0056.1. [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2019/siahkoohi2019itl/siahkoohi2019itl.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2019/siahkoohi2019itl/siahkoohi2019itl.pdf) [[link]](https://library.seg.org/doi/10.1190/geo2019-0056.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7051)
